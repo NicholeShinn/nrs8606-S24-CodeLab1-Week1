@@ -1,4 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# WASD movement first day game.
 
 DO NOT LEAVE IT LIKE THIS!!!
 
