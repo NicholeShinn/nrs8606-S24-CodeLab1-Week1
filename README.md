@@ -1,5 +1,5 @@
-# WASD movement first day game.
+# First Week Mini-Game.
 
-DO NOT LEAVE IT LIKE THIS!!!
+A worm who is hungry. There's some basic WASD movement and score, with sound and destroying of game objects. 
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Note: Not super polished but getting familiar with some scripts again.
